@@ -1,6 +1,6 @@
 ---
 # Display name
-title: My Ngo Thi Hoang
+title: My Ngo
 
 # Is this the primary user of the site?
 superuser: true
